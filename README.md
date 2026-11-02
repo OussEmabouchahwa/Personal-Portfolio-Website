@@ -28,16 +28,59 @@ No template. Designed from scratch around a dark cinematic aesthetic, custom CMS
 
 ---
 
-## Screenshots
+## 📸 Screenshots & Visual Walkthrough
 
-> _Screenshots below show the live site. Replace with actual captures after local setup._
+Here is a visual tour of the portfolio and CMS dashboard:
 
-| Section | Preview |
-|---------|---------|
-| **Hero** | Full-screen dark entry with grain overlay, ambient cursor glow, GSAP split-text reveal |
-| **Work** | Project grid with Cloudinary images, live tech tags, edit button (admin mode) |
-| **Visuals** | Masonry media vault — travel photos from Route Insolite + Midjourney work |
-| **Admin Dashboard** | CMS panel at `/admin` — Projects, Experience, Certifications, Media, Messages |
+<div align="center">
+
+### 1. Hero Section
+*Dark cinematic introduction with animated grain, ambient cursor glow, and live Sfax timezone clock.*
+<img src="screenshots/hero.png" alt="Hero Section" width="95%" />
+
+<br/><br/>
+
+### 2. Featured Projects & Work
+*Full-stack engineering projects with live demos, tech stack tags, and repository links.*
+<img src="screenshots/projects.png" alt="Work & Projects" width="95%" />
+
+<br/><br/>
+
+### 3. Experience & Career Journey
+*Interactive timeline covering engineering studies at IPSAS and development experience.*
+<img src="screenshots/experience.png" alt="Experience Timeline" width="95%" />
+
+<br/><br/>
+
+### 4. Certifications & Credentials
+*Verified technical certifications and credentials.*
+<img src="screenshots/certifications.png" alt="Certifications" width="95%" />
+
+<br/><br/>
+
+### 5. Visual Production & Photography Vault
+*Masonry gallery showcasing travel photography from Route Insolite and Midjourney experiments.*
+<img src="screenshots/visuals.png" alt="Visuals Vault" width="95%" />
+
+<br/><br/>
+
+### 6. Video Showcase Section
+*Cloudinary-powered streaming showcase for video editing and multimedia creations.*
+<img src="screenshots/video-showcase.png" alt="Video Showcase" width="95%" />
+
+<br/><br/>
+
+### 7. Contact Section
+*Direct contact interface connected to PostgreSQL with real-time local availability.*
+<img src="screenshots/contact.png" alt="Contact Section" width="95%" />
+
+<br/><br/>
+
+### 8. Admin CMS Dashboard (`/admin`)
+*Complete custom admin suite: project manager, certificate uploader, media vault, and contact messages inbox.*
+<img src="screenshots/admin-dashboard.png" alt="Admin Dashboard" width="95%" />
+
+</div>
 
 ---
 
